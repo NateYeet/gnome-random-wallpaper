@@ -1,2 +1,2 @@
-# gnome-random-wallpaper
-Random Wallpapers from a Folder 
+# Gnome Random Wallpapers
+Randomly selects wallpapers from a folder
